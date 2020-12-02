@@ -15,7 +15,7 @@ def index():
     business_pitches = Pitch.get_pitches('business')
     promotion_pitches = Pitch.get_pitches('promotion')
     product_pitches = Pitch.get_pitches('product')
-    return render_template('index.html', title=title, business=business_pitches, promotion=promotion_pitches, product=product_pitches)
+    return render_template('indx.html', title=title, business=business_pitches, promotion=promotion_pitches, product=product_pitches)
 
 
 @main.route('/profile/<uname>')
