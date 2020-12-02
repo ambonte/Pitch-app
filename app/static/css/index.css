@@ -14,7 +14,7 @@ img {
   font-family: fantasy;
 }
 .title {
-  color: ;
+  color: blueviolet;
 }
 .panel{
     color:white;
@@ -39,12 +39,12 @@ h1 {
 
 .navbar-brand{
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 40px;
     padding-left: 20px;
     color: white;
     text-decoration: none;
 }
-.navbar-brand:hoxer{
+.navbar-brand:hover{
     color: white;
 }
 .navbar-brand span{
