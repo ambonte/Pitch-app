@@ -14,7 +14,7 @@ img {
   font-family: fantasy;
 }
 .title {
-  color: blueviolet;
+  color: ;
 }
 .panel{
     color:white;
@@ -48,7 +48,7 @@ h1 {
     color: white;
 }
 .navbar-brand span{
-    color: tomato;
+    color: red;
     font-family: 'Lobster', cursive;
     font-style: italic;
 }
