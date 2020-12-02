@@ -1,8 +1,8 @@
 # Pitch
 ####  This is a web app that allows users to view submit and comment on various categories of one minute pitches.
-#### By **Pascaline Irabaruta**
+#### By **Bonte Emma BANA**
 ## Link to live site
-You can view the site here ---> https://oneminutepitches.herokuapp.com/
+You can view the site here ---> 
 
 ## Description
 This is a web platform that allows users to view, submit and comment on various categories of one minute pitches.This site to allow users see various pitches and use them wisely to impress since it only takes one minute to impress somebody
@@ -52,7 +52,7 @@ chmod a+x start.sh
 4. Bootstrap
 5. Css
 ## Support and contact details
-if you run into any issues please contact pascyirabaruta456@gmail.com
+if you run into any issues please contact bbonteemma@gmail.com
 ### License
 *MIT*
-Copyright (c) 2020 **Pascaline Irabaruta**
+Copyright (c) 2020 **Bonte Emma BANA**
