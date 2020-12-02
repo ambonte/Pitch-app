@@ -3,7 +3,7 @@ from wtforms import StringField, TextAreaField, SubmitField, SelectField
 from wtforms.validators import Required
 
 
-class PitchForm(FlaskForm):
+class PitcForm(FlaskForm):
 
     title = StringField('Pitch title', validators=[Required()])
     text = TextAreaField('Text', validators=[Required()])
